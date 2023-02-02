@@ -1,5 +1,5 @@
 #hello2.py
-#this program asks you your name and then says hello to you
+#this program says hello to John
 #author: John Kelleher
 print ("Hello John")
 
